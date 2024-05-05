@@ -1,5 +1,5 @@
 <img align="center" width="auto" src="https://camo.githubusercontent.com/470e71fcca3f5d1bf61484826cc14a47c3326437952cb73ccd4adaa22a0819ae/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67" alt="Emoji" />
-<h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px"/>, I'm Narayan Shinde</h1>
+<h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px"/>, I'm Narayan Namdev Shinde</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <br><hr><br>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" alt="Coding Gif" />
